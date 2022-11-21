@@ -1,0 +1,24 @@
+C:\Users\saeel.n\source\repos\JobOpeningsAPI\JobOpenins.Data\bin\Debug\net5.0\JobOpenins.Data.deps.json
+C:\Users\saeel.n\source\repos\JobOpeningsAPI\JobOpenins.Data\bin\Debug\net5.0\JobOpenins.Data.dll
+C:\Users\saeel.n\source\repos\JobOpeningsAPI\JobOpenins.Data\bin\Debug\net5.0\ref\JobOpenins.Data.dll
+C:\Users\saeel.n\source\repos\JobOpeningsAPI\JobOpenins.Data\bin\Debug\net5.0\JobOpenins.Data.pdb
+C:\Users\saeel.n\source\repos\JobOpeningsAPI\JobOpenins.Data\obj\Debug\net5.0\JobOpenins.Data.csproj.AssemblyReference.cache
+C:\Users\saeel.n\source\repos\JobOpeningsAPI\JobOpenins.Data\obj\Debug\net5.0\JobOpenins.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saeel.n\source\repos\JobOpeningsAPI\JobOpenins.Data\obj\Debug\net5.0\JobOpenins.Data.AssemblyInfoInputs.cache
+C:\Users\saeel.n\source\repos\JobOpeningsAPI\JobOpenins.Data\obj\Debug\net5.0\JobOpenins.Data.AssemblyInfo.cs
+C:\Users\saeel.n\source\repos\JobOpeningsAPI\JobOpenins.Data\obj\Debug\net5.0\JobOpenins.Data.csproj.CoreCompileInputs.cache
+C:\Users\saeel.n\source\repos\JobOpeningsAPI\JobOpenins.Data\obj\Debug\net5.0\JobOpenins.Data.dll
+C:\Users\saeel.n\source\repos\JobOpeningsAPI\JobOpenins.Data\obj\Debug\net5.0\ref\JobOpenins.Data.dll
+C:\Users\saeel.n\source\repos\JobOpeningsAPI\JobOpenins.Data\obj\Debug\net5.0\JobOpenins.Data.pdb
+C:\Users\saeel.naik\Downloads\JobOpeningsAPI (1)\JobOpeningsAPI\JobOpenins.Data\bin\Debug\net5.0\JobOpenins.Data.deps.json
+C:\Users\saeel.naik\Downloads\JobOpeningsAPI (1)\JobOpeningsAPI\JobOpenins.Data\bin\Debug\net5.0\JobOpenins.Data.dll
+C:\Users\saeel.naik\Downloads\JobOpeningsAPI (1)\JobOpeningsAPI\JobOpenins.Data\bin\Debug\net5.0\ref\JobOpenins.Data.dll
+C:\Users\saeel.naik\Downloads\JobOpeningsAPI (1)\JobOpeningsAPI\JobOpenins.Data\bin\Debug\net5.0\JobOpenins.Data.pdb
+C:\Users\saeel.naik\Downloads\JobOpeningsAPI (1)\JobOpeningsAPI\JobOpenins.Data\obj\Debug\net5.0\JobOpenins.Data.csproj.AssemblyReference.cache
+C:\Users\saeel.naik\Downloads\JobOpeningsAPI (1)\JobOpeningsAPI\JobOpenins.Data\obj\Debug\net5.0\JobOpenins.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\saeel.naik\Downloads\JobOpeningsAPI (1)\JobOpeningsAPI\JobOpenins.Data\obj\Debug\net5.0\JobOpenins.Data.AssemblyInfoInputs.cache
+C:\Users\saeel.naik\Downloads\JobOpeningsAPI (1)\JobOpeningsAPI\JobOpenins.Data\obj\Debug\net5.0\JobOpenins.Data.AssemblyInfo.cs
+C:\Users\saeel.naik\Downloads\JobOpeningsAPI (1)\JobOpeningsAPI\JobOpenins.Data\obj\Debug\net5.0\JobOpenins.Data.csproj.CoreCompileInputs.cache
+C:\Users\saeel.naik\Downloads\JobOpeningsAPI (1)\JobOpeningsAPI\JobOpenins.Data\obj\Debug\net5.0\JobOpenins.Data.dll
+C:\Users\saeel.naik\Downloads\JobOpeningsAPI (1)\JobOpeningsAPI\JobOpenins.Data\obj\Debug\net5.0\ref\JobOpenins.Data.dll
+C:\Users\saeel.naik\Downloads\JobOpeningsAPI (1)\JobOpeningsAPI\JobOpenins.Data\obj\Debug\net5.0\JobOpenins.Data.pdb
